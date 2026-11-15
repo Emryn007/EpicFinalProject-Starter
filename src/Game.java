@@ -26,7 +26,7 @@ public class Game {
      * Starts the game loop.
      */
     public void start() {
-        Utils.printHeader("Welcome to the Java EPIC Final Project");
+        Utils.printHeader("Welcome to Tyler Green's Epic Adventure");
 
         while (running) {
             displayMenu();
