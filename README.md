@@ -191,3 +191,17 @@ Your final submission must include:
 Build your project step-by-step, test frequently, and commit your progress regularly.
 
 Good luck and have fun building your EPIC project.
+
+## Week 1 Progress — Tyler Green
+
+Branch: week1-structure
+
+- Cloned the starter repository and opened it in Eclipse.
+- Personalized the game welcome message.
+- Tested player creation, theme selection, player information,
+  the placeholder action, invalid menu choices, and exiting.
+- Confirmed the menu repeats until Exit is selected.
+- Saved the console screenshot as screenshots/week1-menu.png.
+
+The starter code provides the menu loop, Scanner input,
+and initial class structure for future gameplay.
